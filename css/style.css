@@ -49,6 +49,9 @@
   #home .social-container a.youtube {
     color: #FF0000;
   }
+  #home .social-container a.github {
+    color: white;
+  }
   #home .social-container a.medium {
     color: #00ab6c;
   }
@@ -73,6 +76,9 @@
   }
   #home .social-container a.youtube:hover {
     color: #c30f0f;
+  }
+  #home .social-container a.github:hover {
+    color: #f2efefd2;
   }
   #home .social-container a.medium:hover {
     color: #077b51;
@@ -3286,5 +3292,21 @@ a.text-gradient-light-100:hover, a.text-gradient-light-100:focus {
   color: #adb5bd;
   font-size: 14px !important;
   font-weight: 300;
+}
+
+.footer-section .middle h6 i{
+   color: white;
+   font-size: 16px;  
+   margin-right: 10px;
+}
+
+.footer-section .middle h3 i{
+   color:  #25D366;
+   font-size: 18px;  
+   margin-right: 10px;
+}
+.footer-section .middle h3 a{
+   color:  white;
+  
 }
 /*# sourceMappingURL=style.css.map */
